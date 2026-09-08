@@ -3,7 +3,7 @@
   <img src="images/Ramel_techflow.png" alt="Edge AI & Computer Vision Telemetry" width="100%" max-height="250px" />
 </p>
 
-# Peace be upon you! I'm Ramel Robinson aka RaML 👋
+# Peace be upon you! I'm Ramel Robinson aka RaML 👨🏿‍💻
 ### Edge AI Systems Architect & Embedded Computer Vision Engineer
 
 My expertise lies in building C++ multi-threaded vision backends, optimizing deep learning models for hardware-specific engines (such as TensorRT and TensorFlow Lite), deploying localized Edge LLMs (Gemma), and engineering type-safe TypeScript dashboard environments.
