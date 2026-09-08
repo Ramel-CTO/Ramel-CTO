@@ -4,37 +4,30 @@
 </p>
 
 # Peace be upon you! I'm Ramel Robinson aka RaML 👋
-### Systems Architect • Computer Vision Engineer
+### Edge AI Systems Architect & Embedded Computer Vision Engineer
 
-I design and build the "brains and eyesight" for automated operations. My expertise lies in architecting high-throughput edge AI pipelines that transform raw video feeds from stationary smart cameras and mobile devices into structured, real-time telemetry data.
-
+I design and build high-throughput, hardware-accelerated "Intelligence and Vision" pipelines for automated operations. My expertise spans C++ multi-threaded vision backends, quantized Edge LLMs (Gemma), and type-safe TypeScript telemetry layers that transform raw video feeds into actionable, real-time enterprise metadata.
 ---
 
-### 🛠️ Architectural Stack & Competencies
+### 🛠️ Professional Architecture & Tech Stack
 
-| Layer | Technologies & Tools |
+| Operational Layer | Core Technologies & Tooling |
 | :--- | :--- |
-| **Edge AI & Vision** | OpenCV • YOLO • PyTorch • TensorRT • Gemma • ONNX Runtime • MediaPipe |
-| **Telemetry & Infrastructure** | MQTT • gRPC • Protobuf • Docker • K3s (Edge K8s) • Edge Data Logging |
-| **Target Platforms** | Embedded Edge Devices (NVIDIA Jetson) • Mobile Deployment (iOS/Android) • IP Camera Networks |
-| **Languages & Core** | Python • C++ (Modern) • Multithreading • Linux / Bash • Typescript |
+| **Deep Learning & Edge LLMs** | PyTorch • TensorFlow Lite • LibTorch • TensorRT • **Gemma (Edge LLMs / VLMs)** |
+| **Systems & Concurrency** | Modern C++ (C++17) • Python • C++ Multithreading • CUDA • **TypeScript** |
+| **Infrastructure & Networks** | Google Protocol Buffers (Protobuf) • MQTT • WebSockets • OpenCV • Linux |
+| **Full-Stack Operations** | Real-Time Telemetry Dashboards • Asynchronous Event Dispatchers |
+
 
 ---
 
-### 🏗️ Core Architectural Focus Areas
+### 🏗️ My Architecture Showcases
 
-Rather than building the physical systems, I focus entirely on the perception, state-estimation, and data lifecycle pipelines that power them:
+My pinned repositories are designed to demonstrate my comprehensive, multilingual mastery of the edge AI engineering lifecycle:
 
-#### 📡 High-Throughput Vision Telemetry
-* **The Goal:** Extracting lightweight, structured metadata from high-framerate camera streams.
-* **Approach:** Designing asynchronous, non-blocking ingestion layers that convert bounding boxes and classification arrays into serialized telemetry payloads with minimal edge-compute overhead.
-
-#### 📱 Mobile & Stationary Cross-Platform Deployments
-* **The Goal:** Building hardware-agnostic AI runtime environments.
-* **Approach:** Quantizing and optimizing models via TensorRT and ONNX to achieve high-accuracy, low-latency performance on both stationary smart infrastructure and mobile device chipsets.
-
-#### 🔄 Open-Source Project Tracking (Forks)
-I actively study and contribute optimizations to enterprise-grade perception and spatial-analysis engines (like **OpenVINS** and modular vision frameworks) to refine my approach to real-time state estimation and edge telemetry routing.
+*   **`edge-ai-quantization-compiler` (Python/C++):** Deep model graph parsing and hardware compilation. Showcases fixed graph transformations using `ONNX` and native `IInt8EntropyCalibrator2` implementation to scale hardware performance.
+*   **`pytorch-multistream-telemetry-backend` (Pure C++17):** High-throughput, non-blocking ingestion. Bypasses Python’s Global Interpreter Lock (GIL) utilizing an atomic, multi-threaded frame ring buffer integrated into native `LibTorch` configurations.
+*   **`tflite-mobile-edge-vision` (Python/Mobile Infrastructure):** Resource-constrained operations and zero-copy data routing. Focuses on offloading operations to mobile hardware delegates and packing metadata into highly compressed binary `Protobuf` schemas.
 
 ---
 
