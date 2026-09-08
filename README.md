@@ -23,11 +23,12 @@ I design and build high-throughput, hardware-accelerated "Intelligence and Visio
 
 ### 🏗️ My Architecture Showcases
 
-My pinned repositories are designed to demonstrate my comprehensive, multilingual mastery of the edge AI engineering lifecycle:
+My pinned repositories are a modular, live breakdown of the **Edge Processing Core**, **Serialization Engine**, and **Presentation Layers** visualized in the architecture banner above:
 
-*   **`edge-ai-quantization-compiler` (Python/C++):** Deep model graph parsing and hardware compilation. Showcases fixed graph transformations using `ONNX` and native `IInt8EntropyCalibrator2` implementation to scale hardware performance.
-*   **`pytorch-multistream-telemetry-backend` (Pure C++17):** High-throughput, non-blocking ingestion. Bypasses Python’s Global Interpreter Lock (GIL) utilizing an atomic, multi-threaded frame ring buffer integrated into native `LibTorch` configurations.
-*   **`tflite-mobile-edge-vision` (Python/Mobile Infrastructure):** Resource-constrained operations and zero-copy data routing. Focuses on offloading operations to mobile hardware delegates and packing metadata into highly compressed binary `Protobuf` schemas.
+*   **[edge-ai-quantization-compiler](https://github.com):** Covers graph parsing and hardware compilation. Traces PyTorch graphs into `ONNX` and utilizes `IInt8EntropyCalibrator2` to compile low-latency, optimized INT8 execution engines.
+*   **[pytorch-multistream-telemetry-backend](https://github.com):** High-throughput, pure C++17 ingestion. Bypasses Python's Global Interpreter Lock (GIL) utilizing an atomic frame ring buffer queue to pipe raw data arrays smoothly onto GPU inference grids.
+*   **[tflite-mobile-edge-vision](https://github.com):** Lightweight mobile edge runtime and wire transport layer. Focuses on offloading tasks to mobile hardware delegates and packing metadata into hyper-compressed binary `Protobuf` schemas.
+
 
 ---
 
