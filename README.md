@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/networks_nodes.jpeg" alt="Edge AI & Computer Vision Telemetry" width="100%" max-height="250px" />
+  <img src="images/Ramel_techflow.png" alt="Edge AI & Computer Vision Telemetry" width="100%" max-height="250px" />
 </p>
 
 # Peace be upon you! I'm Ramel Robinson aka RaML 👋
