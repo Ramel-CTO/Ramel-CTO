@@ -3,8 +3,8 @@
   <img src="images/networks_nodes.jpeg" alt="Edge AI & Computer Vision Telemetry" width="100%" max-height="250px" />
 </p>
 
-# Peace be upon you!, I'm Ramel Robinson aka RaML 👋
-### Edge AI Systems Architect • Computer Vision Engineer
+# Peace be upon you! I'm Ramel Robinson aka RaML 👋
+### Systems Architect • Computer Vision Engineer
 
 I design and build the "brains and eyesight" for automated operations. My expertise lies in architecting high-throughput edge AI pipelines that transform raw video feeds from stationary smart cameras and mobile devices into structured, real-time telemetry data.
 
