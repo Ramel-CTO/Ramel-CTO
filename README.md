@@ -6,7 +6,7 @@
 # Peace be upon you! I'm Ramel Robinson aka RaML 👨🏿‍💻
 ### Edge AI Systems Architect & Embedded Computer Vision Engineer
 
-My expertise lies in building C++ multi-threaded vision backends, optimizing deep learning models for hardware-specific engines (such as TensorRT and TensorFlow Lite), deploying localized Edge LLMs (Gemma), and engineering type-safe TypeScript dashboard environments.
+My core expertise revolves around spatial, surface, fabric and thermal analysis. In my workflows i'm skilled at building C++ multi-threaded vision backends, optimizing deep learning models for hardware-specific engines (such as TensorRT and TensorFlow Lite), deploying localized Edge LLMs (Gemma), and engineering visual data dashboard environments.
 
 ### 🛠️ Core Architectural Tech Stack
 
