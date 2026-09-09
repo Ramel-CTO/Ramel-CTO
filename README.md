@@ -3,7 +3,7 @@
   <img src="images/Ramel_techflow.png" alt="Edge AI & Computer Vision Telemetry" width="100%" max-height="250px" />
 </p>
 
-# Peace be upon you! I'm Ramel Robinson aka RaML 👨🏿‍💻
+# Peace be upon you! I'm RaML 👨🏿‍💻
 ### Edge AI Systems Architect & Embedded Computer Vision Engineer
 
 My core expertise revolves around spatial, surface, fabric and thermal analysis. In my workflows i'm skilled at building C++ multi-threaded vision backends, optimizing deep learning models for hardware-specific engines (such as TensorRT and TensorFlow Lite), deploying localized Edge LLMs (Gemma), and engineering visual data dashboard environments.
@@ -34,5 +34,5 @@ My 4 pinned repositories form a modular, live breakdown of the **Edge Processing
 
 ### 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/ramelcto
-* **Portfolio / Architecture Blog:** https://ramel-cto.github.io/raml_portfolio/
+* **Restricted Access / CV Labs:** https://ramel-cto.github.io/raml_portfolio/
 * **Email:** ramelr@sudflow.com
